@@ -734,3 +734,4 @@ BenchmarkHprose| 20000|63018 ns/op
 BenchmarkHprose2| 20000|66637 ns/op
 BenchmarkGobRPC| 20000|92289 ns/op
 BenchmarkJSONRPC| 10000|103602 ns/op
+he
